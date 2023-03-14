@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCVSApplication</string>
+    <string name="enter_some_text">Enter some Text</string>
+    <string name="add">ADD</string>
+    <string name="text" />
+    <string name="to_do_list">To Do List</string>
+    <string name="change_status">Change Status</string>
+    <string name="todo">TODO</string>
+</resources>
